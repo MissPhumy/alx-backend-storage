@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-stats about Nginx logs stored in MongoDB
+Provide some stats about Nginx logs stored in MongoDB
 Database: logs, Collection: nginx, Display same as example
 first line: x logs, x number of documents in this collection
 second line: Methods
